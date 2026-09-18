@@ -1,4 +1,4 @@
-# 🌟 About Me
+# 🌟 Hi, I'm Mariia Fedorova
 
 I am a Data Analyst with experience in **BI, marketing, product, and financial analytics**, working end‑to‑end across the entire analytical lifecycle. I transform raw data into actionable insights and build clear, meaningful visualizations that support business decision‑making.
 
